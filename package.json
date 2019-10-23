@@ -1,0 +1,24 @@
+{
+  "name": "utah_jazz_api",
+  "version": "0.0.1",
+  "description": "Utah Jazz Stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brax10ward/utah_jazz_api.git"
+  },
+  "keywords": [
+    "utah",
+    "jazz",
+    "nba"
+  ],
+  "author": "Braxton Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brax10ward/utah_jazz_api/issues"
+  },
+  "homepage": "https://github.com/brax10ward/utah_jazz_api#readme"
+}
